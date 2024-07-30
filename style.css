@@ -376,6 +376,7 @@
 
 /* Media Queries For Download App */
 /* 0-1300 */
+<<<<<<< HEAD
 @media only screen and (max-width: 1300px){
     .get__the_app .semiContainer .left,
     .get__the_app .semiContainer .right{
@@ -516,3 +517,5 @@
             grid-template-columns: repeat(1, 1fr);
     }
 }
+=======
+>>>>>>> dc80a06d4dab4d543c17c8551d73afc416b30993
