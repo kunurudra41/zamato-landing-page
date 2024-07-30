@@ -63,7 +63,7 @@
 .hero__section_title{
     text-align: center;
     font-size: 30px;
-    font-weight: 380px;
+    font-weight: 380;
 }
 
 .hero__section_input_container{
@@ -180,12 +180,12 @@
 }
 
 .collections .sub__heading_container{
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap:1rem;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 .sub__heading_container span:nth-child(2){
@@ -397,7 +397,7 @@
         flex-direction: column;
     }
 }
-/* footer */
+/*footer*/
 .footer{
     width: 100%;
 }
@@ -476,7 +476,6 @@
   color: white;
   cursor: pointer;
 }
-
 .section__links_container button i{
     /* color: white; */
     font-size: 13px;
